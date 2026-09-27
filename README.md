@@ -12,11 +12,13 @@
 
 ---
 
-### 🎯 Sobre mí
+## 🎯 Sobre mí
 
 Estoy terminando la carrera de **Analista de Sistemas** y hoy trabajo en el cruce entre **desarrollo full-stack** y **análisis de datos**. Me gusta construir productos completos: desde la arquitectura de un backend hasta el dashboard que convierte esos datos en una decisión.
 
-Mis proyectos más grandes nacieron de necesidades reales — una plataforma de gestión municipal, un sistema de trazabilidad agrícola y análisis estadísticos de producción industrial — y los llevé de punta a punta: diseño, código, deploy y documentación.
+Mis proyectos más grandes nacieron de necesidades reales — una plataforma de gestión municipal desarrollada **en equipo** con un flujo de trabajo colaborativo (ramas, Pull Requests, revisión de código), un sistema de trazabilidad agrícola y análisis estadísticos de producción industrial — y los llevé de punta a punta: diseño, código, deploy y documentación.
+
+Me maneja bien tanto trabajando de forma autónoma como integrando un equipo: coordinando convenciones de código, resolviendo conflictos de nombres/estructura entre contribuidores y sacando adelante entregas con dependencias cruzadas entre frontend y backend.
 
 ---
 
